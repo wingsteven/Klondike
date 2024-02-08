@@ -1,33 +1,32 @@
 package com.github.wingsteven;
 
 public class Card {
-    private String suit;
-    private String value;
+    private Suit suit;
+    private Face face;
     private boolean faceUp;
 
     public Card() {
 
     }
-
-    public Card(String value, String suit) {
-        this.value = value;
+    public Card(Face face, Suit suit) {
+        this.face = face;
         this.suit = suit;
     }
 
-    public String getSuit() {
+    public Suit getSuit() {
         return suit;
     }
 
-    public void setSuit(String suit) {
+    public void setSuit(Suit suit) {
         this.suit = suit;
     }
 
-    public String getValue() {
-        return value;
+    public Face getFace() {
+        return face;
     }
 
-    public void setValue(String value) {
-        this.value = value;
+    public void setFace(Face face) {
+        this.face = face;
     }
 
     public void setFaceUp() {
