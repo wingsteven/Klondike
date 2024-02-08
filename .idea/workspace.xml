@@ -101,7 +101,7 @@
       <recent name="com.github.wingsteven" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.KlondikeSolitaireRulesTest.defineADeck">
+  <component name="RunManager" selected="Gradle.KlondikeSolitaireRulesTest">
     <configuration name="KlondikeSolitaire [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -217,8 +217,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.KlondikeSolitaireRulesTest.defineADeck" />
         <item itemvalue="Gradle.KlondikeSolitaireRulesTest" />
+        <item itemvalue="Gradle.KlondikeSolitaireRulesTest.defineADeck" />
         <item itemvalue="Gradle.KlondikeSolitaireRules" />
         <item itemvalue="Gradle.KlondikeSolitaireRules.aDeckHas52Cards" />
         <item itemvalue="Gradle.KlondikeSolitaire [build]" />
